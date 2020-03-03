@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "allAuthors": {
+        "fiction": [
+            "Agatha Christie",
+            "J. K. Rowling",
+            "Dr. Seuss"
+        ],
+        "scienceFiction": [
+            "Neal Stephenson",
+            "Arthur Clarke",
+            "Isaac Asimov",
+            "Robert Heinlein"
+        ]
+    }
+
+}
